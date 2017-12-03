@@ -4,6 +4,7 @@
   :license {:name "Apache License 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0"}
   :dependencies [[org.clojure/clojure "1.8.0"]]
+  :deploy-repositories [["releases" :clojars]]
   :plugins [[test2junit "1.1.2"]
             [lein-codox "0.10.3"]]
   :codox {:output-path "docs"
