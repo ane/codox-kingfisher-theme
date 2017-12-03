@@ -1,4 +1,4 @@
-(defproject com.github.ane/codox-kingfisher-theme "0.1.0"
+(defproject com.github.ane/codox-kingfisher-theme "0.2.0-SNAPSHOT"
   :description "kingfisher is a pretty pretty theme" 
   :url "http://github.com/ane/codox-kingfisher-theme"
   :license {:name "Apache License 2.0"
